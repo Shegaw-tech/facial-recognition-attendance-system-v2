@@ -11,7 +11,7 @@ This is an open-sourced facial recognition attendance system built using Python.
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/facial-recognition-attendance-system.git
+git clone https://github.com/Shegaw-tech/facial-recognition-attendance-system.git
 2. Navigate to the project directory: cd facial-recognition-attendance-system
 
 3. Install dependencies:pip install -r requirements.txt
